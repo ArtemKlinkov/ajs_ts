@@ -1,1 +1,1 @@
-# ajs_ts
+[![Build status](https://ci.appveyor.com/api/projects/status/6xpvbvm6hor9c7dk?svg=true)](https://ci.appveyor.com/project/ArtemKlinkov/ajs-ts)
